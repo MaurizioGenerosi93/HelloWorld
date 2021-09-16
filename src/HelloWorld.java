@@ -1,7 +1,7 @@
 public class HelloWorld {
      public static void main (String[] args) {
 
-         System.out.println("Ritengo illegale spiegare così!!!");
+         System.out.println("Hello World!!!");
      }
 }
 
